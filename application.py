@@ -1,3 +1,8 @@
+## API Tutorial 
+## SDEV 220
+## Bruce Nebergall
+
+
 from flask import Flask, jsonify, request  
 app = Flask(__name__)
 from flask_sqlalchemy import SQLAlchemy
